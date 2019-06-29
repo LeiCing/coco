@@ -1,0 +1,18 @@
+<view class='main'>
+  <view class='kong'></view>
+  <view class='cocoimg'>
+    <image src='/images/minemoney.png'></image>
+  </view>
+  <view class='coconame'>
+    <text>CoCo钱包</text>
+  </view>
+  <view class='moneynumber'>
+    <text>￥ 0.00</text>
+  </view>
+  <button class='chongzhi' bindtap='tip'>
+    充值
+  </button>
+  <button class='tixian' bindtap='tip' >
+    提现
+  </button>
+</view>
